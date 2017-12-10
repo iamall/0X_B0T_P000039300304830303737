@@ -16,7 +16,7 @@ print "===[Login Success]==="
 
 helpMessage ="""
 ┏━━ೋ• ❄ •ೋ━━━┓
-   ❁ ᴇxᴏʀᴄɪsᴛ sᴇʟғʙᴏᴛ❁    
+   ❁sᴇʟғʙᴏᴛ❁    
 ┗━━ೋ• ❄ •ೋ━━━┛
 🛡sᴇᴛᴛɪɴɢ ᴄᴍᴅ🛡
 ✈[Url:on/off]
@@ -71,9 +71,9 @@ helpMessage ="""
 """
 
 mid = cl.getProfile().mid
-Creator="u5b35770e73cfaed07833c355f6705bd5"
-admin=["u5b35770e73cfaed07833c355f6705bd5"]
-owner="u5b35770e73cfaed07833c355f6705bd5"
+Creator="u0c1f6c74568c8a576062cc0eff378727"
+admin=["u0c1f6c74568c8a576062cc0eff378727"]
+owner="u0c1f6c74568c8a576062cc0eff378727"
 
 contact = cl.getProfile()
 backup = cl.getProfile()
